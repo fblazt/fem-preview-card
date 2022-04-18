@@ -12,7 +12,7 @@ const BaseButton = (props) => {
     font-family: 'Lexend Deca', sans-serif;
     color: ${(props) => props.color};
     cursor: pointer;
-    transition: all;
+    transition: all .2s ease-out;
     &:hover {
       color: ${theme.colors.neutral.veryLightGray};
       background-color: ${(props) => props.color};
