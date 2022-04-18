@@ -24,11 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/fem-preview-card-result.png)
+![](./screenshot/fem-preview-card-result.png)
 
 ### Links
 
-- Solution URL: [Frontend Mentor solution]()
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/responsive-preview-card-with-css-grid-SyAAyZs4c)
 - Live Site URL: [Live Site](https://fblazt-fem-preview-card.netlify.app/)
 
 ## My process
